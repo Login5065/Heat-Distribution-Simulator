@@ -1,4 +1,3 @@
 # TSK
 
-technologie symulacji komputerowej
-Symulacja rozprzestrzeniania się ciepła w obiektach metalowych
+Simple code made by me and my friend which uses differential quotient to properly show how heat transfers from objects. Use at your own risk
